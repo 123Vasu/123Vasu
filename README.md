@@ -19,10 +19,10 @@
 </div>
 ## About Me
 
-
 - 👋 Hi, I’m <b>@Vasu-Arora</b>
 - 👀 I’m interested in each and every type of technology and I love to code.
-- 🌱  Graduated with a B.Tech in Computer Science and Engineering from I.K. Gujral Punjab Technical University Campus, Amritsar in 2024.
+- 🌱  Graduated with a B.Tech in Computer Science and Engineering from I.K. Gujral Punjab Technical University Campus, Amritsar.
+- 💼 I have 2 years and 4 months of professional experience — previously worked at *Reyansh Computers* and *Digivate Labs, and currently working at **Persistent Systems* as a *Lead Software Engineer*.  
 - 💞️ Looking forward to collaborate on any interesting project in the field of computer technology.
 - 📫 Let's Connect:<br>  
   <a href="https://www.linkedin.com/in/aroravasu123/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
